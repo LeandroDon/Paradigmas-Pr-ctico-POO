@@ -1,0 +1,14 @@
+D:\Documentos\ANALISTA DE SISTEMAS\Segundo Año\Paradigmas de Programación\Unidad 3\Proyecto POO\Canchas de tenis\Canchas\bin\Debug\net8.0\Canchas.exe
+D:\Documentos\ANALISTA DE SISTEMAS\Segundo Año\Paradigmas de Programación\Unidad 3\Proyecto POO\Canchas de tenis\Canchas\bin\Debug\net8.0\Canchas.deps.json
+D:\Documentos\ANALISTA DE SISTEMAS\Segundo Año\Paradigmas de Programación\Unidad 3\Proyecto POO\Canchas de tenis\Canchas\bin\Debug\net8.0\Canchas.runtimeconfig.json
+D:\Documentos\ANALISTA DE SISTEMAS\Segundo Año\Paradigmas de Programación\Unidad 3\Proyecto POO\Canchas de tenis\Canchas\bin\Debug\net8.0\Canchas.dll
+D:\Documentos\ANALISTA DE SISTEMAS\Segundo Año\Paradigmas de Programación\Unidad 3\Proyecto POO\Canchas de tenis\Canchas\bin\Debug\net8.0\Canchas.pdb
+D:\Documentos\ANALISTA DE SISTEMAS\Segundo Año\Paradigmas de Programación\Unidad 3\Proyecto POO\Canchas de tenis\Canchas\obj\Debug\net8.0\Canchas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\ANALISTA DE SISTEMAS\Segundo Año\Paradigmas de Programación\Unidad 3\Proyecto POO\Canchas de tenis\Canchas\obj\Debug\net8.0\Canchas.AssemblyInfoInputs.cache
+D:\Documentos\ANALISTA DE SISTEMAS\Segundo Año\Paradigmas de Programación\Unidad 3\Proyecto POO\Canchas de tenis\Canchas\obj\Debug\net8.0\Canchas.AssemblyInfo.cs
+D:\Documentos\ANALISTA DE SISTEMAS\Segundo Año\Paradigmas de Programación\Unidad 3\Proyecto POO\Canchas de tenis\Canchas\obj\Debug\net8.0\Canchas.csproj.CoreCompileInputs.cache
+D:\Documentos\ANALISTA DE SISTEMAS\Segundo Año\Paradigmas de Programación\Unidad 3\Proyecto POO\Canchas de tenis\Canchas\obj\Debug\net8.0\Canchas.dll
+D:\Documentos\ANALISTA DE SISTEMAS\Segundo Año\Paradigmas de Programación\Unidad 3\Proyecto POO\Canchas de tenis\Canchas\obj\Debug\net8.0\refint\Canchas.dll
+D:\Documentos\ANALISTA DE SISTEMAS\Segundo Año\Paradigmas de Programación\Unidad 3\Proyecto POO\Canchas de tenis\Canchas\obj\Debug\net8.0\Canchas.pdb
+D:\Documentos\ANALISTA DE SISTEMAS\Segundo Año\Paradigmas de Programación\Unidad 3\Proyecto POO\Canchas de tenis\Canchas\obj\Debug\net8.0\Canchas.genruntimeconfig.cache
+D:\Documentos\ANALISTA DE SISTEMAS\Segundo Año\Paradigmas de Programación\Unidad 3\Proyecto POO\Canchas de tenis\Canchas\obj\Debug\net8.0\ref\Canchas.dll
