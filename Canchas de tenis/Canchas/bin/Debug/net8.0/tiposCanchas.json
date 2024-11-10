@@ -1,0 +1,17 @@
+[
+  {
+    "Nombre": "Polvo de ladrillo",
+    "PrecioHora": 20000.0,
+    "Id": 7
+  },
+  {
+    "Nombre": "Césped",
+    "PrecioHora": 10000.0,
+    "Id": 8
+  },
+  {
+    "Nombre": "Sintética",
+    "PrecioHora": 15000.0,
+    "Id": 9
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "IdCancha": 10,
+    "IdCliente": 5,
+    "Fecha": "2024-11-20T00:00:00",
+    "HoraInicio": "18:00:00",
+    "HoraFin": "20:00:00",
+    "MontoTotal": 40000.0,
+    "Id": 13
+  },
+  {
+    "IdCancha": 11,
+    "IdCliente": 6,
+    "Fecha": "2024-12-20T00:00:00",
+    "HoraInicio": "19:00:00",
+    "HoraFin": "21:00:00",
+    "MontoTotal": 20000.0,
+    "Id": 14
+  },
+  {
+    "IdCancha": 12,
+    "IdCliente": 5,
+    "Fecha": "2024-12-21T00:00:00",
+    "HoraInicio": "17:00:00",
+    "HoraFin": "19:00:00",
+    "MontoTotal": 30000.0,
+    "Id": 15
+  },
+  {
+    "IdCancha": 12,
+    "IdCliente": 6,
+    "Fecha": "2024-11-21T00:00:00",
+    "HoraInicio": "20:00:00",
+    "HoraFin": "22:00:00",
+    "MontoTotal": 30000.0,
+    "Id": 16
+  }
+]

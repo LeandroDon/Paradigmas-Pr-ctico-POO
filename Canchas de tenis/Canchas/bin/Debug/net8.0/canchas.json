@@ -1,0 +1,32 @@
+[
+  {
+    "Nombre": "Guillermo Vilas",
+    "Tipo": {
+      "Nombre": "Polvo de ladrillo",
+      "PrecioHora": 20000.0,
+      "Id": 7
+    },
+    "EstaDisponible": true,
+    "Id": 10
+  },
+  {
+    "Nombre": "José Luis Clerc",
+    "Tipo": {
+      "Nombre": "Césped",
+      "PrecioHora": 10000.0,
+      "Id": 8
+    },
+    "EstaDisponible": true,
+    "Id": 11
+  },
+  {
+    "Nombre": "Guillermo Sebastián Coria",
+    "Tipo": {
+      "Nombre": "Sintética",
+      "PrecioHora": 15000.0,
+      "Id": 9
+    },
+    "EstaDisponible": true,
+    "Id": 12
+  }
+]

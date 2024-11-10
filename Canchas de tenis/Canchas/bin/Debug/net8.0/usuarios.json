@@ -1,0 +1,22 @@
+[
+  {
+    "Nombre": "Ángel Norberto Castelli",
+    "Email": "ancastelli@hotmail.com",
+    "Id": 1
+  },
+  {
+    "Nombre": "Leandro Andrés Donati Scatassi",
+    "Email": "leandro.donati@gmail.com",
+    "Id": 2
+  },
+  {
+    "Nombre": "Diego Echenique",
+    "Email": "diegodiego@live.com.ar",
+    "Id": 3
+  },
+  {
+    "Nombre": "Iván Gustavo Freites",
+    "Email": "ifreites@frvt.utn.edu.ar",
+    "Id": 4
+  }
+]
